@@ -36,7 +36,7 @@
     "node": ">=10.12"
   },
   "dependencies": {
-    "@azure/storage-blob": "12.2.1",
+    "@azure/storage-blob": "12.7.0",
     "@exlinc/keycloak-passport": "1.0.2",
     "@joplin/turndown-plugin-gfm": "1.0.42",
     "@root/csr": "0.8.1",
@@ -49,7 +49,7 @@
     "apollo-server": "2.25.2",
     "apollo-server-express": "2.25.2",
     "auto-load": "3.0.4",
-    "aws-sdk": "2.1043.0",
+    "aws-sdk": "2.1354.0",
     "azure-search-client": "3.1.5",
     "bcryptjs-then": "1.0.1",
     "bluebird": "3.7.2",
